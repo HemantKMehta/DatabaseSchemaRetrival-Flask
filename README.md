@@ -1,4 +1,4 @@
-Please follow this google drive link https://drive.google.com/file/d/1b-n_dGcGawaDBWVbU9MQ7L4FbmK0JBaw/view?usp=sharing for the video introduction. 
+Please follow this google drive link https://drive.google.com/file/d/1b-n_dGcGawaDBWVbU9MQ7L4FbmK0JBaw/view?usp=sharing for the video introduction. Please download the video for better quality. 
 
 Take-home Assignment for Senior Backend Engineer Project
 
