@@ -17,7 +17,7 @@ def getschema_DB(dbname):
     result = "<pre> database: "+dbname+"\n"
     username=""
     password=""
-    with open("/home/hkmfsd/PycharmProjects/FP1/users.txt","r") as userfile:
+    with open("users.txt","r") as userfile:
         for line in userfile:
             words = line.split(":")
             username = words[0]
@@ -46,7 +46,7 @@ def search_table(dbname, tablename):
     result = ""
     username=""
     password=""
-    with open("/home/hkmfsd/PycharmProjects/FP1/users.txt","r") as userfile:
+    with open("users.txt","r") as userfile:
         for line in userfile:
             words = line.split(":")
             username = words[0]
